@@ -1,4 +1,4 @@
-const api = "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";
+const api = "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";
 const inp = document.getElementById('inp');
 const images = document.querySelector('.images')
 const getimage =async ()=>{
